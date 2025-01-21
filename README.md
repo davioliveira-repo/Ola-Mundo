@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório local do curso de git e github
+ Primeiro repositório local do curso de **Git** e **GitHub**
 
  Este repositório foi criado durante uma aula do curso!
 
